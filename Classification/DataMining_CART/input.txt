@@ -1,4 +1,4 @@
-Rid Age Income Student CreditRating BuysComputer
+﻿Rid Age Income Student CreditRating BuysComputer
 1 Youth High No Fair No
 2 Youth High No Excellent No
 3 MiddleAged High No Fair Yes

@@ -1,4 +1,4 @@
-Rid Age Income Student CreditRating BuysComputer
+﻿Rid Age Income Student CreditRating BuysComputer
 1 13 High No Fair CLassNo
 2 11 High No Excellent CLassNo
 3 25 High No Fair CLassYes

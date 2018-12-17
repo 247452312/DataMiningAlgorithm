@@ -1,4 +1,4 @@
-package DataMining_KNN;
+锘縫ackage DataMining_KNN;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -7,7 +7,7 @@ import java.util.List;
 
 
 /**
- * k最近邻算法场景类型
+ * k鏈�杩戦偦绠楁硶鍦烘櫙绫诲瀷
  * @author lyq
  *
  */
